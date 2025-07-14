@@ -1,1 +1,3 @@
 # myDoc
+
+HTML hosting
